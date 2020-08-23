@@ -1,0 +1,160 @@
+/*
+Theme Name: Fast Net
+Theme URI: http://arijitbanarjee.com
+Author: Arijit arijitbanarjee
+Author URI: http://arijitbanarjee.com
+Description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo vel fuga excepturi, deserunt laboriosam corrupti natus et laudantium aliquid architecto ipsam ex repellat, tempore. Sint tempora sunt, nam possimus consectetur voluptate maiores nostrum corporis, porro harum veritatis voluptatibus in! Inventore modi beatae obcaecati ea incidunt dolores quia, quam illum nihil adipisci, blanditiis dolor porro dolorem neque, nulla soluta nesciunt. Illo culpa aliquid dolorem voluptates odio, perspiciatis excepturi voluptas, impedit, quisquam totam quo architecto porro ullam perferendis ut, saepe officiis quod eveniet accusamus voluptate. Ipsum reprehenderit libero, quae qui! Aliquid minus ullam fuga magnam, voluptatem maxime rem placeat similique enim, optio.
+Tags: Fast, Arijit, Net, net, fast, Banarjee, arijit, banarjee, wordpress theme, theme, wordpress
+Version: 1.0
+ */
+ a.see-more{
+   padding: 10px 20px;
+   border: 1px solid #FF3E3F;
+   border-radius: 30px;
+   font-size: 16px;
+   display: table;
+   color: #FF3E3F !important;
+   background-color: #fff !important;
+   margin-bottom: 30px;
+ }
+.navigation{
+  justify-content: center;
+}
+.navigation .nav-links .page-numbers a{
+  font-size: 14px;
+  position: relative;
+  display: block;
+  padding: 0;
+  text-align: center;
+  margin-left: -1px;
+  line-height: 45px;
+  width: 45px;
+  height: 45px;
+  border-radius: 0 !important;
+  color: #8a8a8a;
+  border: 1px solid #f0e9ff;
+  margin-right: 10px;
+  background-color: #fbf9ff;
+  border-color: #f0e9ff;
+  color: #888888;
+}
+.navigation .nav-links .page-numbers{
+  display: flex;
+  justify-content: center;
+}
+.navigation .nav-links .page-numbers .current{
+  font-size: 14px;
+  position: relative;
+  display: block;
+  padding: 0;
+  text-align: center;
+  margin-left: -1px;
+  line-height: 45px;
+  width: 45px;
+  height: 45px;
+  border-radius: 0 !important;
+  color: #8a8a8a;
+  border: 1px solid #f0e9ff;
+  margin-right: 10px;
+  border-color: #f0e9ff;
+  color: #888888;
+}
+.post_item .right-bar-image{
+  width: 80px;
+  height: 80px;
+}
+.thumb a img{
+  width: 60px;
+  height: 60px;
+}
+.comments-area .thumb img{
+  width: auto;
+}
+.replay{
+  margin-left: 50px;
+}
+.comment-reply-link{
+  background-color: transparent;
+  color: #888888;
+  padding: 5px 18px;
+  font-size: 14px;
+  display: block;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.comments-area .children{
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.comment-pagination .page-numbers{
+  display: flex;
+  justify-content: flex-start;
+}
+.comment-pagination .page-numbers .current{
+  font-size: 14px;
+  position: relative;
+  display: block;
+  padding: 0;
+  text-align: center;
+  margin-left: -1px;
+  line-height: 45px;
+  width: 45px;
+  height: 45px;
+  border-radius: 0 !important;
+  color: #8a8a8a;
+  border: 1px solid #f0e9ff;
+  margin-right: 10px;
+  border-color: #f0e9ff;
+  color: #888888;
+}
+.comment-pagination .page-numbers a{
+  font-size: 14px;
+  position: relative;
+  display: block;
+  padding: 0;
+  text-align: center;
+  margin-left: -1px;
+  line-height: 45px;
+  width: 45px;
+  height: 45px;
+  border-radius: 0 !important;
+  color: #8a8a8a;
+  border: 1px solid #f0e9ff;
+  margin-right: 10px;
+  background-color: #fbf9ff;
+  border-color: #f0e9ff;
+  color: #888888;
+}
+.about-img img{
+  width: 100% !important;
+  height: 100% !important;
+}
+.custom-post-image{
+  height: 250px;
+}
+#navigation .active a{
+  color: #ff3e3f !important;
+}
+.page-404 .content-404{
+  height: 900px;
+  position: relative;
+}
+.custom-position{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.custom-position img{
+  width: 200px;
+  height: auto;
+}
+.custom-position h2{
+  font-size: 40px;
+  margin: 20px 0;
+  font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 8.4rem;
+  font-weight: 800;
+line-height: 1.138888889;
+}
